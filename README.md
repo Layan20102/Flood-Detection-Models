@@ -110,19 +110,4 @@ These features enhance flood vs. non-flood separability.
 * SVM-RBF fails to generalize, biased toward the Non-Flood class
 
 
----
-
-
-##  How to Run
-
-```bash
-# Clone repository
-git clone https://github.com/Layan20102/flood-detection-models.git
-cd flood-detection-sar
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-Place dataset tiles in the designated folder and run the notebook to reproduce training and evaluation.
 
