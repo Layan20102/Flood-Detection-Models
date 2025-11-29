@@ -2,7 +2,7 @@
 
 ### Machine Learning & Deep Learning for Automated Flood Mapping
 
-![Logo](docs/img/header.png)
+![Logo](docs/img/hearder.png)
 
 ---
 
