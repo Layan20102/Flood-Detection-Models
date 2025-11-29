@@ -2,7 +2,7 @@
 
 ### Machine Learning & Deep Learning for Automated Flood Mapping
 
-**A research-grade project leveraging CNN, Random Forest, and SVM-RBF classifiers for detecting flooded areas using Sentinel-1 SAR data.**
+![Logo](docs/img/header.png)
 
 ---
 
