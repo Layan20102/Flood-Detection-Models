@@ -4,7 +4,7 @@ This project aims to implement a robust and automated solution for **binary floo
  **Task (T):**
 The task is to enable the machine learning model to detect and predict flooded areas from satellite imagery.
 
-####**Why SAR?**  
+**Why SAR?**  
 - **VV** emphasizes reflections from smooth surfaces (water, infrastructure).  
 - **VH** emphasizes cross-polarized scattering from vegetation and rough terrain.  
 Together, they provide complementary flood cues even under clouds or night conditions.
